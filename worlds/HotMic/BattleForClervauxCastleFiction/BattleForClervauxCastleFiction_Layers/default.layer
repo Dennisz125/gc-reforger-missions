@@ -1,0 +1,51 @@
+SCR_DestructibleBuildingEntity : "{034A45B0D41025B9}Prefabs/Structures/Cultural/Castles/Castle_01_OuterWall_01_Corner.et" {
+ coords 3934.931 0.393 3505.429
+ angleY -105
+}
+SCR_ChimeraCharacter : "{4E066E9DF57A25F4}worlds/HotMic/Prefabs/Characters/WW2/101st/Character_US_1942_BAR.et" {
+ coords 3908.632 52.996 3568.945
+}
+SCR_DestructibleBuildingEntity : "{4ED653FEE1B9D8AB}Prefabs/Structures/Cultural/Castles/Castle_01_OuterWall_03.et" {
+ coords 3884.244 1.28 3407.195
+}
+SCR_ChimeraCharacter : "{6BC7DC4D7A61A473}worlds/HotMic/Prefabs/Characters/WW2/101st/Character_US_1942_Base.et" {
+ coords 3910.831 52.722 3569.976
+}
+$grp SCR_DestructibleBuildingEntity : "{6E10F2B9F8C8BB2C}Prefabs/Structures/Cultural/Castles/Castle_01_OuterWall_01_Round.et" {
+ {
+  coords 3956.476 0.577 3511.106
+  angleY -105
+ }
+ {
+  coords 3901.395 -1.611 3573.786
+  angleY -135
+ }
+}
+SCR_DestructibleBuildingEntity : "{8D5BD6AF6FBD7A62}Prefabs/Structures/Cultural/Castles/Castle_01_OuterWall_01_Hole.et" {
+ coords 3961.922 52 3491.043
+ angleY -105
+}
+$grp SCR_DestructibleBuildingEntity : "{92F8DAE5E56CA22E}Prefabs/Structures/Cultural/Castles/Castle_01_OuterWall_01.et" {
+ {
+  coords 3945.975 0.386 3529.227
+  angleY -135
+ }
+ {
+  coords 3931.126 0.083 3544.076
+  angleY -135
+ }
+ {
+  coords 3916.276 -0.525 3558.926
+  angleY -135
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{DECF116069DCCC2B}Prefabs/Structures/Cultural/Castles/Castle_01_Tower.et" {
+ {
+  coords 3893.243 -1.157 3452.214
+  angleY 0
+ }
+ {
+  coords 3914.746 -0.305 3433.214
+  angleY -180
+ }
+}
