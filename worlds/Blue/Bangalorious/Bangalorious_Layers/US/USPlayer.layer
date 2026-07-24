@@ -1,3 +1,27 @@
+SCR_AIGroup : "{2E20F404E398F622}Prefabs/Groups/BLUFOR/US/Marines/1990/Marine Rifles/P/Group_US_Marines_1990_MortarCrew_P.et" {
+ components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   Enabled 0
+  }
+  PS_GroupCallsignAssigner "{651367042C5F047E}" {
+   m_iCompanyCallsign 1
+   m_iSquadCallsign 6
+  }
+ }
+ coords 3771.018 28.531 4203.343
+ angles 0 -168.285 0
+ m_aUnitPrefabSlots {
+  "{AEF3B33BA857CF28}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_FDC_CO_P.et"
+  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
+  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
+  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
+  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
+  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
+  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
+ }
+ m_sCustomNameSet "M777 Crew"
+ m_bSetPlayable 1
+}
 $grp SCR_AIGroup : "{4462DE540BE8B450}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Mech (Woodland)/P/Group_US_Army_1985_MechSquad_P.et" {
  {
   components {
@@ -164,6 +188,7 @@ $grp SCR_AIGroup : "{4D7315B25A803917}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
    "{9C9AB518A1C0E902}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_MG_P.et"
    "{87FFAAF2254AB251}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_AMG_P.et"
   }
+  m_sCustomNameSet "Platoon HQ"
  }
  {
   components {
@@ -187,6 +212,7 @@ $grp SCR_AIGroup : "{4D7315B25A803917}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
    "{9C9AB518A1C0E902}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_MG_P.et"
    "{87FFAAF2254AB251}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_AMG_P.et"
   }
+  m_sCustomNameSet "Platoon HQ"
  }
  {
   components {
@@ -205,5 +231,6 @@ $grp SCR_AIGroup : "{4D7315B25A803917}Prefabs/Groups/BLUFOR/US/Army/1986/M113 Me
    "{A1AFC251AE26C34E}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_RTO_P.et"
    "{4AE9BC917A6377D6}Prefabs/Characters/Factions/BLUFOR/US_Army/1986/Infantry (Woodland)/P/Character_US_1986_BDU_FO_P.et"
   }
+  m_sCustomNameSet "Company HQ"
  }
 }

@@ -2,28 +2,6 @@ Vehicle M923A1_engineer1 : "{2D74C39A650A3030}Prefabs/Vehicles/Wheeled/M923A1/M9
  coords 3773.495 28.258 4250.5
  angles 0.875 -102.284 -0.19
 }
-SCR_AIGroup : "{2E20F404E398F622}Prefabs/Groups/BLUFOR/US/Marines/1990/Marine Rifles/P/Group_US_Marines_1990_MortarCrew_P.et" {
- components {
-  AIFormationComponent "{507E9DC12F541FE6}" {
-   Enabled 0
-  }
-  PS_GroupCallsignAssigner "{651367042C5F047E}" {
-   m_iCompanyCallsign 1
-   m_iSquadCallsign 6
-  }
- }
- coords 3771.018 28.531 4203.343
- angles 0 -168.285 0
- m_aUnitPrefabSlots {
-  "{AEF3B33BA857CF28}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_FDC_CO_P.et"
-  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
-  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
-  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
-  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
-  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
-  "{62461DA4BC5B019E}Prefabs/Characters/Factions/BLUFOR/US_Army/1989/Infantry (Woodland)/P/Character_US_1989_BDU_Mortar_Crew_P.et"
- }
-}
 Vehicle M923A1_command1 : "{36BDCC88B17B3BFA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command.et" {
  coords 3736.446 28.281 4245.834
  angles 0 -98.114 0
